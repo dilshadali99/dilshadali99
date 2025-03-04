@@ -1,6 +1,6 @@
 [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYBnFRpE8WpeXMRdiu4k6_4d9QU-twrm_gSzQ1mPA235TSIWlJ8ukRxBY0hyEuJqTzvuk&usqp=CAU)]
 <h1 align="center">Hi 👋, I'm MD Dilshad Ali</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3k5tT01Tisjq2N1OS45pbnYkdBbrUv9nvIQ&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshadali99&label=Profile%20views&color=0e75b6&style=flat" alt="dilshadali99" /> </p>
